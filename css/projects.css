@@ -156,7 +156,7 @@ body {
 
 .work__container{
     width: 200px;
-    background-color: #fff;
+    background: rgba(255, 255, 255, 0.80);
     border-radius: 20px;
     margin: 100px;
     display: flex;
@@ -217,4 +217,5 @@ body {
     }
 
 }
+
 
